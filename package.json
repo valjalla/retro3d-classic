@@ -1,0 +1,14 @@
+{
+  "name": "retro3d-classic",
+  "version": "1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "three": "^0.174.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4"
+  }
+}
